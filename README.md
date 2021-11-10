@@ -4,7 +4,9 @@ This is  project is on email mailing system which is build using python and tkin
  
 ## Library’s Used
 ·        pandas: to import the excel file storing the name and email address of the employee.
+
 ·        smtplib: it is used to login to our email id and provide it access to send our mail through python code.
+
 ·        Tkinter: It is used to create user interfaces and to create fields for email’s subject and body . A send button is also created to send emails at all email ids that were there in excel sheet.
 
 ## To run the program
