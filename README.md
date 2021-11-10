@@ -1,1 +1,1 @@
-# Automaed-Mailing-System
+# Automated-Mailing-System
